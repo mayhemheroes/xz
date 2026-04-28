@@ -1,4 +1,5 @@
-project: PROJECT
+project: xz
 target: fuzz
+
 cmds:
-- cmd: /out/fuzz
+  - cmd: /out/fuzz
